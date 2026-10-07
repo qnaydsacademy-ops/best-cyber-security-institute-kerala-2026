@@ -1,7 +1,6 @@
 # Best Cyber Security Institute in Kerala - 2026 | QNAYDS Academy
-<img width="2016" height="1152" alt="WhatsApp Image 2026-10-07 at 12 06 38" src="https://github.com/user-
 > How to Choose the Best Cyber Security Institute in Kerala | QNAYDS Academy - Practical Cyber Security & Ethical Hacking Training
-
+<img width="2016" height="1152" alt="WhatsApp Image 2026-10-07 at 12 06 38" src="https://github.com/user-attachments/assets/6648ca42-484d-44c3-a5fa-b1cba90d2fe3" />
 ![QNAYDS Academy](https://qnayds.in/logo.png)
 
 ## 🚀 About QNAYDS Academy
@@ -57,5 +56,6 @@ $ git clone https://github.com/qnaydsacademy-ops/best-cyber-security-institute-k
 $ master tools: nmap, burpsuite, metasploit
 
 # Step 5: Hands-on Labs & CTFs
-$ ./start-hacking --lab practical --mode hands-onattachments/assets/5839d08c-cd59-46f1-b142-658274903d31" />
+$ ./start-hacking --lab practical --mode hands
+
 
